@@ -1,7 +1,4 @@
-# File: README.md
-# Project: Sermon Collections
-# Date: 2026-04-01
-# Comment: Added section 4 regarding Spiritual Substance: Salt and Light vs. Social Attraction.
+
 
 # 證道輯錄：回歸真理、聖靈與文字的深度自省
 # Sermon Collections: Reflection, Spirit, and the Power of Text
