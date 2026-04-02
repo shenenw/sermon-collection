@@ -1,7 +1,6 @@
 # 證道輯錄：回歸真理、聖靈與文字的深度自省
 # Sermon Collections: Reflection, Spirit, and the Power of Text
-> 🌐 **網頁版閱讀中心：[https://shenenw.github.io/sermon-collection/](https://shenenw.github.io/sermon-collection/聪明人要做智慧的事情.html)**
-
+> 🌐 **網頁版閱讀中心：[點此進入最新證道](https://shenenw.github.io/sermon-collection/聪明人要做智慧的事情.html)**
 - 「好的證道不應僅止於歌頌神的偉大。若缺乏反省，信仰將流於形式；若沒有聖靈，讀經將失去生命；若沒有文字的沉澱，真理難以扎根。」
 
 ---
