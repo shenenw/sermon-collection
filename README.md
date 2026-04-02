@@ -49,6 +49,4 @@
 **Note:** This collection is currently in the enrichment phase. 
 Contact information and discussion features will be enabled once the initial repository is complete.
 
-**File:** README.md  
-**Project:** Sermon Collections  
 **Last Updated:** 2026-04-01
