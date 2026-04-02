@@ -1,7 +1,5 @@
 
-
 # 證道輯錄：回歸真理、聖靈與文字的深度自省
-# Sermon Collections: Reflection, Spirit, and the Power of Text
 
 > 🌐 **網頁版閱讀中心：[點此進入最新證道](https://shenenw.github.io/sermon-collection/聪明人要做智慧的事情.html)**
 - 「好的證道不應僅止於歌頌神的偉大。若缺乏反省，信仰將流於形式；若沒有聖靈，讀經將失去生命；若沒有文字的沉澱，真理難以扎根。」
@@ -11,7 +9,6 @@
 ## 📖 核心理念 (Core Philosophy)
 
 本專案旨在收錄那些能引導信徒進入靈魂深處、產生真實變革的證道資源。
-
 ### 1. 文字的消化效率 (Textual Efficiency vs. Sequential Media)
 目前教會多以影音（Video/Audio）紀錄證道，雖便於製作，但對接收者而言：
 * **影音是線性的 (Sequential)**：聽眾必須跟隨講員的速度，難以即時停頓思索。
