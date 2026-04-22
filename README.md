@@ -3,6 +3,7 @@
 ---
 
 > 🌐 **網頁版閱讀中心：[點此進入最新證道](https://shenenw.github.io/sermon-collection/聪明人要做智慧的事情.html)**
+* [新證道標題](https://shenenw.github.io/sermon-collection/十架七言.html)
 > 
 > 「好的證道不應僅止於歌頌神的偉大。若缺乏反省，信仰將流於形式；若沒有聖靈，讀經將失去生命；若沒有文字的沉澱，真理難以扎根。」
 
